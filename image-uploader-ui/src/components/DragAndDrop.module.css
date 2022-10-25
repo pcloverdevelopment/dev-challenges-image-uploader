@@ -1,0 +1,16 @@
+.dropZone {
+  width: 338px;
+  height: 219px;
+  background-color: #f6f8fb;
+  border-radius: 12px;
+  margin: 0 32px;
+  border: 1px dashed #97bef4;
+}
+
+.dragAndDropText {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 18px;
+  color: #828282;
+}
